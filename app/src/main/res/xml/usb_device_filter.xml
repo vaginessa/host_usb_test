@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This (0x18d1) is the vendor ID for Google; this covers some Nexus products including the
+         Nexus 4. -->
+    <usb-device vendor-id="6353" />
+
+    <!-- This is the vendor ID for Samsung and the product ID for the Galaxy Nexus. -->
+    <usb-device vendor-id="1256" product-id="26720" />
+
+    <!-- Motorola -->
+    <usb-device vendor-id="8888" />
+
+    <!-- HTC -->
+    <usb-device vendor-id="2996" />
+</resources>
